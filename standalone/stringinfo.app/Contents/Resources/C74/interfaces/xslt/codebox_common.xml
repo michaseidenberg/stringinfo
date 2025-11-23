@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<?xml-stylesheet href="./_c74_ref.xsl" type="text/xsl"?>
+
+<c74object name="codebox_common">
+	<!--ATTRIBUTES-->
+	<definedattributelist>
+		<attribute name="bgcolor" get="1" set="1" type="float" size="4">
+			<digest>
+				Background Color
+			</digest>
+			<description>
+				Sets the color for the object's background frame. 
+			</description>
+			<attributelist>
+				<attribute name="attr_attr_save" get="1" set="1" type="int" size="1" value="1" />
+				<attribute name="category" get="1" set="1" type="symbol" size="1" value="Color" />
+				<attribute name="dynamiccolor_default" get="1" set="1" type="symbol" size="1" value="bgcolor" />
+				<attribute name="label" get="1" set="1" type="symbol" size="1" value="Background Color" />
+				<attribute name="legacydefault" get="1" set="1" type="float" size="4" value="0.490196 0.498039 0.517647 1." />
+				<attribute name="paint" get="1" set="1" type="int" size="1" value="1" />
+				<attribute name="preview" get="1" set="1" type="symbol" size="1" value="rect_fill" />
+				<attribute name="save" get="1" set="1" type="int" size="1" value="1" />
+				<attribute name="set" get="1" set="1" type="pointer" size="1" value="pointer" />
+				<attribute name="style" get="1" set="1" type="symbol" size="1" value="rgba" />
+			</attributelist>
+		</attribute>
+		<attribute name="linenumbers" get="1" set="1" type="int" size="1">
+			<digest>
+				Show Line Numbers
+			</digest>
+			<description>
+				Show lefthand column containing line numbers for non empty lines.
+			</description>
+			<attributelist>
+				<attribute name="default" get="1" set="1" type="int" size="1" value="1" />
+				<attribute name="label" get="1" set="1" type="symbol" size="1" value="Show Line Numbers" />
+				<attribute name="save" get="1" set="1" type="int" size="1" value="1" />
+				<attribute name="style" get="1" set="1" type="symbol" size="1" value="onoff" />
+			</attributelist>
+		</attribute>
+		<attribute name="linenumberwidth" get="1" set="1" type="int32" size="1">
+			<digest>
+				Line Number Width
+			</digest>
+			<description>
+				Set the width of lefthand line number column in pixels. 
+			</description>
+			<attributelist>
+				<attribute name="default" get="1" set="1" type="int32" size="1" value="20" />
+				<attribute name="label" get="1" set="1" type="symbol" size="1" value="Line Number Width" />
+				<attribute name="save" get="1" set="1" type="int" size="1" value="1" />
+			</attributelist>
+		</attribute>
+		<attribute name="margin" get="1" set="1" type="int32" size="1">
+			<digest>
+				Side Margin
+			</digest>
+			<description>
+				Set the width of the left and righthand margin in pixels
+			</description>
+			<attributelist>
+				<attribute name="default" get="1" set="1" type="int32" size="1" value="4" />
+				<attribute name="label" get="1" set="1" type="symbol" size="1" value="Side Margin" />
+				<attribute name="save" get="1" set="1" type="int" size="1" value="1" />
+			</attributelist>
+		</attribute>
+		<attribute name="textcolor" get="1" set="1" type="float" size="4">
+			<digest>
+				Text Color
+			</digest>
+			<description>
+				The default textcolor (typically overridden by syntax coloring)
+			</description>
+			<attributelist>
+				<attribute name="attr_attr_save" get="1" set="1" type="int" size="1" value="1" />
+				<attribute name="category" get="1" set="1" type="symbol" size="1" value="Color" />
+				<attribute name="dynamiccolor_default" get="1" set="1" type="symbol" size="1" value="textcolor_inverse" />
+				<attribute name="label" get="1" set="1" type="symbol" size="1" value="Text Color" />
+				<attribute name="paint" get="1" set="1" type="int" size="1" value="1" />
+				<attribute name="preview" get="1" set="1" type="symbol" size="1" value="text_letter" />
+				<attribute name="save" get="1" set="1" type="int" size="1" value="1" />
+				<attribute name="set" get="1" set="1" type="pointer" size="1" value="pointer" />
+				<attribute name="style" get="1" set="1" type="symbol" size="1" value="rgba" />
+				<attribute name="stylemap" get="1" set="1" type="symbol" size="1" value="textcolor_inverse" />
+			</attributelist>
+		</attribute>
+	</definedattributelist>
+	<!-- do we need to merge common seealsos? -->
+</c74object>

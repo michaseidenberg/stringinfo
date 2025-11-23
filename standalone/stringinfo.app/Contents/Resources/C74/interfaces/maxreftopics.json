@@ -1,0 +1,21 @@
+
+"objects" : {
+    "counter" : {
+        "topics" : [ "counteroutput", "countersinhollywood" ],
+        "attributes" :
+        {
+            "carryflag" : "URL 234 carryflag",
+            "compatmode" : "URL 782 compatmode"
+        },
+        "assistance" : {
+            "inlets" : [],
+            "outlets" : [
+                "URL 8A -- this is a location for leftmost outlet",
+                "URL 8B -- this is a location for second outlet",
+                "",
+                "URL 8C -- this is a location for the fourth outlet"
+            ]
+        }
+    }
+}
+

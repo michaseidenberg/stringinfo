@@ -1,0 +1,8 @@
+{
+	"styledefaults" : 	{
+        "syntax_objectcolor" : [0.700, 0.965, 1.000, 1.000],
+        "syntax_attributecolor" : [0.900, 0.871, 0.500, 1.000],
+        "syntax_objargcolor" : [0.925, 0.925, 0.925, 1.000],
+        "syntax_attrargcolor" : [0.890, 1.000, 0.761, 1.000]
+	}
+}

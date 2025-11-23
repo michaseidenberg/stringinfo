@@ -1,0 +1,15 @@
+{ "deprecated" : {
+    "rewire~" : {
+        "version" : "8.5.x"
+    },
+    "hostphasor~" : {
+        "version" : "8.5.x"
+    },
+    "hostcontrol~" : {
+        "version" : "8.5.x"
+    },
+    "hostsync~" : {
+        "version" : "8.5.x"
+    }
+}
+}

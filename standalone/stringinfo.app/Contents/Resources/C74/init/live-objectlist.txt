@@ -1,0 +1,47 @@
+max oblist "Live UI Objects" live.arrows;
+max oblist "Live UI Objects" live.adsrui;
+max oblist "Live UI Objects" live.button;
+max oblist "Live UI Objects" live.dial;
+max oblist "Live UI Objects" live.drop;
+max oblist "Live UI Objects" live.grid;
+max oblist "Live UI Objects" live.line;
+max oblist "Live UI Objects" live.menu;
+max oblist "Live UI Objects" live.numbox;
+max oblist "Live UI Objects" live.slider;
+max oblist "Live UI Objects" live.step;
+max oblist "Live UI Objects" live.tab;
+max oblist "Live UI Objects" live.text;
+max oblist "Live UI Objects" live.toggle;
+max oblist "Live UI Objects" live.comment;
+max oblist "Live UI Objects" live.colors;
+max oblist "Live UI Objects" live.gain~;
+max oblist "Live UI Objects" mc.live.gain~;
+max oblist "Live UI Objects" live.meter~;
+max oblist "Live UI Objects" live.scope~;
+
+max oblist "Live API Objects" live.device;
+max oblist "Live API Objects" live.object;
+max oblist "Live API Objects" live.observer;
+max oblist "Live API Objects" live.path;
+max oblist "Live API Objects" live.push;
+max oblist "Live API Objects" live.routing;
+max oblist "Live API Objects" live.thisdevice;
+max oblist "Live API Objects" live.map;
+
+max oblist "Live Control Surface" live.banks;
+
+max oblist "Live MSP Objects" live.remote~;
+max oblist "Live MSP Objects" live.modulate~;
+max oblist "Live MSP Objects" live.param~;
+max oblist "Live MSP Objects" live.adsr~;
+max oblist "Live MSP Objects" amxd~;
+max oblist "Live MSP Objects" mc.amxd~;
+max oblist "Live MSP Objects" live.gain~;
+max oblist "Live MSP Objects" mc.live.gain~;
+max oblist "Live MSP Objects" live.meter~;
+max oblist "Live MSP Objects" live.scope~;
+
+max oblist "Live MIDI Objects" live.miditool.in;
+max oblist "Live MIDI Objects" live.miditool.out;
+
+
