@@ -1,7 +1,7 @@
 # stringinfo
 small app to calculate and represent string flageloets
 
-# Dequarantine an App on macOS (Without Terminal)
+## Dequarantine an App on macOS (Without Terminal)
 
 When you open an app for the first time on macOS, you may get an error like:
 
@@ -12,7 +12,7 @@ Here’s how to handle this **without** using Terminal.
 
 ---
 
-## 1. Use “Open Anyway” in System Settings
+### 1. Use “Open Anyway” in System Settings
 
 1. **Try to open the app once**
    - Double-click the app.
@@ -38,7 +38,7 @@ Here’s how to handle this **without** using Terminal.
 
 ---
 
-## 2. Use Right-Click → Open
+### 2. Use Right-Click → Open
 
 If you don’t see **Open Anyway** in System Settings:
 
@@ -51,7 +51,7 @@ If you don’t see **Open Anyway** in System Settings:
 
 ---
 
-## 3. If You See “App is damaged and can’t be opened”
+### 3. If You See “App is damaged and can’t be opened”
 
 1. **Re-download the app**
    - From the official website, App Store alternative, or trusted source.
@@ -68,7 +68,7 @@ If you don’t see **Open Anyway** in System Settings:
 
 ---
 
-## 4. Check Gatekeeper Settings (General)
+### 4. Check Gatekeeper Settings (General)
 
 1. Go to **System Settings** → **Privacy & Security**.
 2. Under **Security**, find **Allow applications downloaded from:**
